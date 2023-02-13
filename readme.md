@@ -74,4 +74,4 @@ How to create MacOS Virtual Machine with MacOS Recovery Image
 
 [![n9.png](https://i.postimg.cc/bJXxTCyT/n9.png)](https://postimg.cc/FfZkFxJd)
 
-Made with ❤️ by Krish Kansara
+Made with ❤️ by BTRHF
