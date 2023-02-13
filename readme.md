@@ -73,3 +73,5 @@ How to create MacOS Virtual Machine with MacOS Recovery Image
 9. Recovery file and Text file will be generated in the same folder.
 
 [![n9.png](https://i.postimg.cc/bJXxTCyT/n9.png)](https://postimg.cc/FfZkFxJd)
+
+Made with ❤️ by Krish Kansara
