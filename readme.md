@@ -31,8 +31,8 @@ How to create MacOS Virtual Machine with MacOS Recovery Image
 
 7. extract **OpenCorePkg**, **dmg2img** and **Unlocker** into newly created folders.
 
-8. Download <a href="https://github.com/btrhf/MacOS_Recovery_Image_VM/archive/refs/geads/main.zip">my script</a> from release and paste it into the same folder. It should look something link this.
-![](https://www.dropbox.com/s/qzv2017fp1l7ops/3.png?dl=0)
+8. Download my script from <a href="https://github.com/btrhf/MacOS_Recovery_Image_VM/archive/refs/geads/main.zip">Here</a> and extract it into the same folder. It should look something link this.
+[![p3.png](https://i.postimg.cc/vZrxyYbW/p3.png)](https://postimg.cc/MnGpb8cT)
 
 #### How to use
 ***
