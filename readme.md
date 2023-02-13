@@ -1,5 +1,6 @@
 ## MacOS VMware Recovery Creator
 ***
+Author and Developer : Krish Kansara
 
 This script allows you to create a virtual hard disk (vmdk) with MacOS recovery in it. Which allows you to install MacOS on your Virtual Machine.
 
@@ -17,14 +18,16 @@ How to create MacOS Virtual Machine with MacOS Recovery Image
 2. Download and install <a href="https://www.python.org/downloads/" target="_blank">Python</a>.
 
 3. Download Latest version of <a href="https://github.com/acidanthera/OpenCorePkg/releases" target="_blank">OpenCorePkg by acidanthera</a> (Download Latest **OpenCore-x.x.x-RELEASE.zip** file).
-![](https://www.dropbox.com/s/0ga3xt9znq7b65n/d1.png?dl=0)
+
+[![d1.png](https://i.postimg.cc/Y09zGcnX/d1.png)](https://postimg.cc/62kvgPNR)
 
 4. Download <a href="http://vu1tur.eu.org/tools/dmg2img-1.6.7-win32.zip" target="_blank">dmg2img</a>.
 
 5. Download Latest version of <a href="https://github.com/DrDonk/unlocker/releases" target="_blank">Unlocker By DrDonk</a> (Download Latest **unlockerxxx.zip** file).
  
-6. Create 3 folders like so.
-![](https://www.dropbox.com/s/ccva2uw716ro7sr/2.png?dl=0)
+6. Create 3 named **dmg2img**, **OpenCore** and **unlocker** folders like so.
+
+[![p1.png](https://i.postimg.cc/zvg3P0Vz/p1.png)](https://postimg.cc/rRq8DG13)
 
 7. extract **OpenCorePkg**, **dmg2img** and **Unlocker** into newly created folders.
 
@@ -35,28 +38,37 @@ How to create MacOS Virtual Machine with MacOS Recovery Image
 ***
 
 1. Run the Batch file **GetRecovery.bat**.
-![](https://www.dropbox.com/s/9mrhfxhgq24rqje/1.png?dl=0)
+
+[![n1.png](https://i.postimg.cc/L64srth3/n1.png)](https://postimg.cc/dDXvCT2h)
 
 2. Enter your system **Intel** or **AMD**.
-![](https://www.dropbox.com/s/8taomlxa7vnh3op/2.png?dl=0)
+
+[![n2.png](https://i.postimg.cc/02H9FhT9/n2.png)](https://postimg.cc/7f0vTtPR)
 
 3. Select the version of OS you want.
-![](https://www.dropbox.com/s/gfu68pohhxqjrr2/3.png?dl=0)
+
+[![n3.png](https://i.postimg.cc/L67MNLPX/n3.png)](https://postimg.cc/vcWjm13F)
 
 4. The script will check for availability of **QEMU** and **Python**.
-![](https://www.dropbox.com/s/93pfh4irq6n0epe/4.png?dl=0)
+
+[![n4.png](https://i.postimg.cc/QCtRqdx1/n4.png)](https://postimg.cc/JDf6rmXz)
 
 5. The script will download necessary files.
-![](https://www.dropbox.com/s/aoebscge7u8d9ie/5.png?dl=0)
+
+[![n5.png](https://i.postimg.cc/NjhzK4T1/n5.png)](https://postimg.cc/F7ZZq0TR)
 
 6. Convert the files for you.
-![](https://www.dropbox.com/s/wds2anhv0pc8ppi/6.png?dl=0)
+
+[![n6.png](https://i.postimg.cc/Y255FMBG/n6.png)](https://postimg.cc/F1xC5tRN)
 
 7. And also generate a text file which will be used to edit vmx file while creating a Virtual Machine.
-![](https://www.dropbox.com/s/db3drkiypwcskww/7.png?dl=0)
+
+[![n7.png](https://i.postimg.cc/gj8BsLbw/n7.png)](https://postimg.cc/jnqXd55K)
 
 8. And at last **press any key to exit**. 
-![](https://www.dropbox.com/s/trvvz0q1jcjwdcn/8.png?dl=0)
+
+[![n8.png](https://i.postimg.cc/Y0HxpXT9/n8.png)](https://postimg.cc/tZB6kzqQ)
 
 9. Recovery file and Text file will be generated in the same folder.
-![](https://www.dropbox.com/s/oax2pth0kpribs0/9.png?dl=0)
+
+[![n9.png](https://i.postimg.cc/bJXxTCyT/n9.png)](https://postimg.cc/FfZkFxJd)
