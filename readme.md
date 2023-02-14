@@ -8,8 +8,6 @@ Here in example I am using VMware Workstation 17.
 
 How to create MacOS Virtual Machine with MacOS Recovery Image
 
-[How To Use](#prerequisites)
-
 #### Prerequisites
 ***
 
@@ -35,43 +33,5 @@ How to create MacOS Virtual Machine with MacOS Recovery Image
 
 [![p3.png](https://i.postimg.cc/vZrxyYbW/p3.png)](https://postimg.cc/MnGpb8cT)
 
-#### How to use
-***
-
-1. Run the Batch file **GetRecovery.bat**.
-
-[![n1.png](https://i.postimg.cc/L64srth3/n1.png)](https://postimg.cc/dDXvCT2h)
-
-2. Enter your system **Intel** or **AMD**.
-
-[![n2.png](https://i.postimg.cc/02H9FhT9/n2.png)](https://postimg.cc/7f0vTtPR)
-
-3. Select the version of OS you want.
-
-[![n3.png](https://i.postimg.cc/L67MNLPX/n3.png)](https://postimg.cc/vcWjm13F)
-
-4. The script will check for availability of **QEMU** and **Python**.
-
-[![n4.png](https://i.postimg.cc/QCtRqdx1/n4.png)](https://postimg.cc/JDf6rmXz)
-
-5. The script will download necessary files.
-
-[![n5.png](https://i.postimg.cc/NjhzK4T1/n5.png)](https://postimg.cc/F7ZZq0TR)
-
-6. Convert the files for you.
-
-[![n6.png](https://i.postimg.cc/Y255FMBG/n6.png)](https://postimg.cc/F1xC5tRN)
-
-7. And also generate a text file which will be used to edit vmx file while creating a Virtual Machine.
-
-[![n7.png](https://i.postimg.cc/gj8BsLbw/n7.png)](https://postimg.cc/jnqXd55K)
-
-8. And at last **press any key to exit**. 
-
-[![n8.png](https://i.postimg.cc/Y0HxpXT9/n8.png)](https://postimg.cc/tZB6kzqQ)
-
-9. Recovery file and Text file will be generated in the same folder.
-
-[![n9.png](https://i.postimg.cc/bJXxTCyT/n9.png)](https://postimg.cc/FfZkFxJd)
 
 Made with ❤️ by BTRHF
