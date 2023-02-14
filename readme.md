@@ -6,7 +6,7 @@ This script allows you to create a virtual hard disk (vmdk) with MacOS recovery 
 
 Here in example I am using VMware Workstation 17.
 
-How to create MacOS Virtual Machine with MacOS Recovery Image
+You can find how to configure and use my script in the <a href="https://github.com/btrhf/MacOS_Recovery_Image_VM/wiki" target="_blank">Wiki</a> section.
 
 
 Made with ❤️ by BTRHF
